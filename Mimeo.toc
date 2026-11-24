@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: Mimeo
+## Notes: Copies your chat windows and their settings from one character to another, or as a string.
+## Author: Xpariah
+## Version: 1.0.0
+## Category: Chat
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+## SavedVariables: MimeoDB
+
+# Libraries
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfigRegistry-3.0\AceConfigRegistry-3.0.xml
+Libs\AceConfigDialog-3.0\AceConfigDialog-3.0.xml
+Libs\LibDeflate\lib.xml
+Libs\LibSerialize\lib.xml
+
+Mimeo.lua
