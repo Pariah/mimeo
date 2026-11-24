@@ -10,4 +10,4 @@ Inspired by Copybara by MickeyPickey. Copybara export strings import too.
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Bundled libraries keep their own licences, listed there.
+MIT, see [LICENSE](LICENSE). Bundled libraries keep their own licences, see [THIRD_PARTY.md](THIRD_PARTY.md).

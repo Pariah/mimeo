@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-Libraries in Libs/ keep their own licences:
-
-- LibStub: public domain (see the header of Libs/LibStub/LibStub.lua).
-- CallbackHandler-1.0, AceGUI-3.0, AceConfigRegistry-3.0, AceConfigDialog-3.0:
-  Ace3, BSD-style licence (Libs/Ace3-LICENSE.txt).
-- LibDeflate: zlib licence (Libs/LibDeflate/LICENSE.txt).
-- LibSerialize: MIT (Libs/LibSerialize/LICENSE).
